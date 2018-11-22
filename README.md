@@ -1,6 +1,6 @@
 # REPO AS ARTWORK
 
-A list of artworks (or projects that are conceptually-motivated rather than just code) that exist soley as Github repositories or that use repos as an integral part of the artwork.
+A list of artworks (and related projects that are conceptually-motivated rather than just code) that exist soley as Github repositories or that use repos as an integral part of the artwork.
 
 Included for each entry are:
 
