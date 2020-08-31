@@ -59,5 +59,9 @@ https://github.com/sprky0/jstor
 **Lets-get-arrested**  
 (Lets-get-arrested)  
 Kimikazu Kato  
-https://github.com/hamukazu/lets-get-arrested  
+https://github.com/hamukazu/lets-get-arrested
 
+**A Haunting of Haunts**
+(a-haunting-of-haunts)
+Garrett Lynch (IRL)
+https://github.com/Garrettlynch/a-haunting-of-haunts
