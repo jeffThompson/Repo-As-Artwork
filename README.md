@@ -61,7 +61,7 @@ https://github.com/sprky0/jstor
 Kimikazu Kato  
 https://github.com/hamukazu/lets-get-arrested
 
-**A Haunting of Haunts**
-(a-haunting-of-haunts)
-Garrett Lynch (IRL)
-https://github.com/Garrettlynch/a-haunting-of-haunts
+**A Haunting of Haunts**  
+(a-haunting-of-haunts)  
+Garrett Lynch (IRL)  
+https://github.com/Garrettlynch/a-haunting-of-haunts  
