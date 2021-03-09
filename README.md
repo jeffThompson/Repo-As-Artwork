@@ -68,5 +68,5 @@ https://github.com/Garrettlynch/a-haunting-of-haunts
 
 **Neural CA Kunstformen**  
 (gitart_kunstformen_ca)  
-Alexander Mordvintsev 
+Alexander Mordvintsev
 https://github.com/znah/gitart_kunstformen_ca
