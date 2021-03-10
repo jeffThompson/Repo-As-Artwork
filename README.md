@@ -65,3 +65,8 @@ https://github.com/hamukazu/lets-get-arrested
 (a-haunting-of-haunts)  
 Garrett Lynch (IRL)  
 https://github.com/Garrettlynch/a-haunting-of-haunts  
+
+**Neural CA Kunstformen**  
+(gitart_kunstformen_ca)  
+Alexander Mordvintsev  
+https://github.com/znah/gitart_kunstformen_ca
